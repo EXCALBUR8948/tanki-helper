@@ -5,7 +5,6 @@
 // @author       Testanki + WindowsX
 // @match        https://tankionline.com/play*
 // @match        https://*.tankionline.com/*
-// @match        https://3dtank.com/play*
 // @icon         https://img.icons8.com/?size=48&id=TuXN3JNUBGOT&format=png
 // @grant        none
 // ==/UserScript==
